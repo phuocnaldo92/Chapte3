@@ -11,4 +11,6 @@ name_maximum: 50
 email_maximum: 255
 password_minimum: 6
 checbox_checked: "1"
-gravatar_for user: 50
+gravatar_for_user: 50
+content_maximum: 140
+resize_to_limit: 400

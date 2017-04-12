@@ -10,9 +10,7 @@ class UsersController < ApplicationController
   end
 
   def show
-    if @user.nil?
-      render :error
-    end
+    @microposts = @user.microposts.order_by_day.paginate page: params[:page]
   end
 
   def new
