@@ -1,0 +1,14 @@
+rails_link: "http://www.railstutorial.org/book"
+ror: "http://rubyonrails.org/"
+screencast_series: "http://screencasts.railstutorial.org/"
+ror_tutorial: "http://www.railstutorial.org/"
+rails_help: "http://www.railstutorial.org/help"
+rails_tutorial: "http://www.railstutorial.org/book"
+michael_hartl: "http://www.michaelhartl.com/"
+news: "http://news.railstutorial.org/"
+rails_contact: "http://www.railstutorial.org/contact"
+name_maximum: 50
+email_maximum: 255
+password_minimum: 6
+checbox_checked: "1"
+gravatar_for user: 50

@@ -1,0 +1,12 @@
+/.bundle
+/db/*.sqlite3
+/db/*.sqlite3-journal
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+.byebug_history
+/spring/*.pid
+config/settings.local.yml
+config/settings/*.local.yml
+config/environments/*.local.yml
