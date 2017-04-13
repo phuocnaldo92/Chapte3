@@ -100,3 +100,8 @@ en:
   rails_logo: "Rails logo"
   microposts: "Microposts"
   posted: "Posted "
+  following: "Following"
+  followers: "Followers"
+  follow: "Follow"
+  unfollow: "Unfollow"
+  user: "User"
